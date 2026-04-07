@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Tussen Muur en Membraan cover</title>
+  <desc id="desc">Abstracte placeholder in koele en aardse tonen voor de reeks Tussen Muur en Membraan.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f1dfcb"/>
+      <stop offset="50%" stop-color="#d5c8bc"/>
+      <stop offset="100%" stop-color="#7b7c8b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <rect x="120" y="120" width="960" height="1260" rx="44" fill="none" stroke="rgba(255,255,255,0.28)"/>
+  <path d="M740 120L1090 120V1380H510C582 1162 678 1060 748 950C815 845 840 744 840 610C840 418 792 258 740 120Z" fill="rgba(24,27,29,0.22)"/>
+</svg>

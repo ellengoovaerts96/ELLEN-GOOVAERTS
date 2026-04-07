@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Verstilling cover</title>
+  <desc id="desc">Abstracte placeholder in zachte steenkleuren voor de reeks Verstilling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dbd4cc"/>
+      <stop offset="55%" stop-color="#a79284"/>
+      <stop offset="100%" stop-color="#5f564f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <rect x="110" y="110" width="980" height="1280" rx="48" fill="none" stroke="rgba(255,255,255,0.35)"/>
+  <path d="M150 980C320 860 440 900 585 760C705 643 738 515 858 420C932 362 997 333 1050 320V1390H150Z" fill="rgba(24,26,28,0.26)"/>
+  <circle cx="340" cy="420" r="160" fill="rgba(255,255,255,0.18)"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Verstilling beeld 1</title>
+  <desc id="desc">Abstracte placeholder voor beeld één uit Verstilling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d8d0c8"/>
+      <stop offset="55%" stop-color="#938579"/>
+      <stop offset="100%" stop-color="#554c46"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <rect x="92" y="92" width="1016" height="1316" rx="36" fill="none" stroke="rgba(255,255,255,0.28)"/>
+  <path d="M105 1150C360 1100 525 790 706 720C840 669 942 727 1095 566V1408H105Z" fill="rgba(19,20,21,0.3)"/>
+</svg>

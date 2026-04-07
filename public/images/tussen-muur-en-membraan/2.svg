@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Tussen Muur en Membraan beeld 2</title>
+  <desc id="desc">Abstracte placeholder voor beeld twee uit Tussen Muur en Membraan.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#90a08e"/>
+      <stop offset="55%" stop-color="#46574c"/>
+      <stop offset="100%" stop-color="#18211d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <rect x="95" y="95" width="1010" height="1310" rx="38" fill="none" stroke="rgba(255,255,255,0.22)"/>
+  <circle cx="330" cy="990" r="280" fill="rgba(255,255,255,0.08)"/>
+  <path d="M700 190H1025V1260H700Z" fill="rgba(6,10,8,0.18)"/>
+</svg>
