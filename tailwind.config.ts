@@ -8,11 +8,11 @@ const config: Config = {
         paper: "#f5f1e8",
         ink: "#171413",
         mist: "#d7d0c6",
-        clay: "#ae8d78"
+        clay: "#7a8b98"
       },
       fontFamily: {
-        sans: ["Avenir Next", "Helvetica Neue", "Helvetica", "sans-serif"],
-        serif: ["Iowan Old Style", "Baskerville", "Times New Roman", "serif"]
+        sans: ["var(--font-body)", "Helvetica Neue", "Arial", "sans-serif"],
+        serif: ["var(--font-display)", "Georgia", "serif"]
       },
       boxShadow: {
         soft: "0 18px 60px rgba(23, 20, 19, 0.12)"

@@ -9,6 +9,7 @@ export type Project = {
   slug: string;
   year: string;
   description: string;
+  sidebarText?: string;
   coverImage: string;
   coverAlt: string;
   images: ProjectImage[];

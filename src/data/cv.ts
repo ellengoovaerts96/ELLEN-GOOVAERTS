@@ -4,33 +4,33 @@ export const cv: CvData = {
   education: [
     {
       year: "2022",
-      title: "Master in de Fotografie",
-      place: "Voorbeeldacademie"
+      title: "Master's in Photography",
+      place: "Example Academy"
     }
   ],
   exhibitions: [
     {
       year: "2025",
-      title: "Groepstentoonstelling",
-      place: "Brussel"
+      title: "Group Exhibition",
+      place: "Brussels"
     },
     {
       year: "2024",
       title: "Open Studio",
-      place: "Antwerpen"
+      place: "Antwerp"
     }
   ],
   publications: [
     {
       year: "2024",
-      title: "Portfolio selectie in onafhankelijk kunstmagazine"
+      title: "Portfolio selection in an independent art magazine"
     }
   ],
   residencies: [
     {
       year: "2023",
-      title: "Korte residentie fotografie",
-      place: "Gent"
+      title: "Short photography residency",
+      place: "Ghent"
     }
   ]
 };
