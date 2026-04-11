@@ -7,7 +7,7 @@ export default function ContactPage() {
             <p className="text-xs uppercase tracking-[0.2em] text-ink/45">Email</p>
             <a
               href="mailto:goovaerts.ellen@telenet.be"
-              className="break-all font-serif text-[1.6rem] leading-tight transition duration-300 hover:text-clay sm:text-3xl md:text-4xl"
+              className="font-serif text-[1.05rem] leading-tight transition duration-300 hover:text-clay sm:text-3xl md:text-4xl"
             >
               goovaerts.ellen@telenet.be
             </a>
