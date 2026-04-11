@@ -61,23 +61,23 @@ export const projects: Project[] = [
     ]
   },
   {
-    title: "Wild Is the Wind",
+    title: "Wild is the Wind",
     slug: "held-by-the-wind",
     year: "2025",
     description:
       "A photographic series attentive to movement, exposure, and the fragile ways a body is held by its surroundings.",
     sidebarText:
       "Wind passes through bodies and water alike.\n\nIn these images, the human figure and the restless surface of the landscape are moved by the same invisible force - a quiet reminder that we are never separate from the world that surrounds us.",
-    coverImage: "/images/Held by the wind/WIND_1.jpg",
-    coverAlt: "Cover image from the series Held by the Wind.",
+    coverImage: "/images/wild is the wind/WIND_1.webp",
+    coverAlt: "Cover image from the series Wild is the Wind.",
     images: [
       {
-        src: "/images/Held by the wind/WIND_1.jpg",
-        alt: "First image from Held by the Wind."
+        src: "/images/wild is the wind/WIND_1.webp",
+        alt: "First image from Wild is the Wind."
       },
       {
-        src: "/images/Held by the wind/WIND_2.jpg",
-        alt: "Second image from Held by the Wind."
+        src: "/images/wild is the wind/WIND_2.webp",
+        alt: "Second image from Wild is the Wind."
       }
     ]
   }
