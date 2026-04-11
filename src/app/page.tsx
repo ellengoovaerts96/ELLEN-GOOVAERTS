@@ -6,12 +6,12 @@ export default function HomePage() {
       <section className="overflow-hidden border border-ink/10 bg-white">
         <div className="relative min-h-[24rem] sm:min-h-[29rem] md:min-h-[34rem] lg:min-h-[38rem] lg:max-h-[43rem]">
           <Image
-            src="/images/HERO_IMAGE-1.webp"
+            src="/images/HERO_IMAGE-2.webp"
             alt="Hero image"
             fill
             priority
             sizes="100vw"
-            className="object-contain object-center"
+            className="object-cover object-center"
           />
         </div>
       </section>
