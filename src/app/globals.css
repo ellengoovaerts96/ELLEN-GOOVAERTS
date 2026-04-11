@@ -4,6 +4,8 @@
 
 :root {
   color-scheme: light;
+  --font-body: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Cormorant Garamond", Georgia, serif;
 }
 
 html {
